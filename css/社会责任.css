@@ -1,0 +1,314 @@
+*{
+    padding:0;
+    margin: 0;
+}
+body,html{
+    margin: 0;
+    background: #fafafa;
+}
+img{
+    display: block;
+}
+a{
+    text-decoration: none;
+}
+.top{
+    width:100%;
+    height:42px;
+    padding: 41px 0 19px;
+    background:#fff;
+}
+.top .center{
+    width:1003px;
+    height:42px;
+    margin: 0 auto;
+}
+.top .center .centerleft{
+    width:333px;
+    height:49px;
+    padding-right: 194px;
+    float: left;
+}
+.top .center .centerleft .tupianleft a img{
+    float:left;
+}
+.top .center .centerleft .tupianright img{
+    float: left;
+}
+.top .center .menu01{
+    width:56px;
+    height:19px;
+    padding-top: 14px;
+    float: left;
+    line-height: 19px;
+}
+.top .center .menu02{
+    width:56px;
+    height:19px;
+    padding-top: 14px;
+    float: left;
+    line-height: 19px;
+}
+.top .center .menu02 span{
+    font-size: 14px;
+    color: #757575;
+}
+.top .center .menu02 i{
+    color: #757575;
+}
+.top .center .menu03{
+    width:56px;
+    height:19px;
+    padding-top: 14px;
+    float: left;
+    line-height: 19px;
+}
+.top .center .menu03 span{
+    font-size: 14px;
+    color: #CF3E4D;
+}
+.top .center .menu02 span:hover{
+    color: #CF3E4D;
+}
+.top .center .menu01fgx{
+    width:10px;
+    height:19px;
+    padding:14px 14px 0 14px;
+    float: left;
+}
+.top .center .menu01 span{
+    font-size: 14px;
+    color: #757575;
+}
+.top .center .menu01 span:hover{
+    color: #CF3E4D;
+}
+.zj{
+	width: 1274px;
+	height: 682px;
+	margin: 0 auto;
+	background-image: url('../img/shehuizeren1.jpg');
+	background-repeat: no-repeat;
+}
+.zii{
+	width: 1014px;
+	height: 453px;
+	padding-top: 186px;
+	margin: 0 auto;
+}
+.zii .sm{
+	width: 929px;
+	height: 201px;
+	margin: 0 auto;
+	padding-top: 30px;
+		background: white;
+}
+.zii .sm .gy{
+	width: 450px;
+	height: 201px;
+	float: left;
+		background: white;
+}
+.zii .sm .gyy{
+	width: 448px;
+	height: 199px;
+	border: 1px solid #E9E8EB;
+		background: white;
+}
+.zii .sm .gyyy{
+	width: 448px;
+	height: 28px;
+	border-bottom: 1px solid #E9E8EB;
+}
+.zii .sm .gyyy .lf{
+	width: 120px;
+	height: 28px;
+	padding-right: 80px;
+	float: left;
+}
+.zii .sm .gyyy .lff{
+	width: 28px;
+	height: 31px;
+	padding: 0 10px;
+	float: right;
+}
+.zii .sm .gyyy .lff a span{
+	font-size: 14px;
+	color: #7A7A7A;
+}
+.zii .sm .gyyy .lff a span:hover{
+	color: #000;
+}
+.zii .sm .gyyy .lfff{
+	width: 17px;
+	height: 9px;
+	padding-top: 10px;
+	float: right;
+}
+.zii .sm .gyyyy{
+	width: 410px;
+	height: 140px;
+	margin: 0 auto;
+	padding: 15px 0;
+}
+.zii .sm .gyyyy .y{
+	width: 410px;
+	height: 28px;
+}
+.zii .sm .gyyyy .y a span{
+	color: #7A7A7A;
+	font-size: 12px;
+}
+.zii .sm .gyyyy .y a span:hover{
+	color: #000;
+}
+.zii .sm .bg{
+	width: 449px;
+	height: 201px;
+	float: left;
+	margin-left: 30px;
+}
+.zii .xm{
+	width: 929px;
+	height: 194px;
+	margin: 0 auto;
+	padding-top: 28px;
+	background: white;
+}
+.zii .xm .x{
+	width: 216px;
+	height: 194px;
+	padding-right: 18px;
+	float: left;
+}
+.zii .xm .xx{
+	width: 216px;
+	height: 194px;
+	padding-right: 21px;
+	float: left;
+}
+.zii .xm .xxx{
+	width: 449px;
+	height: 154px;
+	padding-top: 10px;
+	float: left;
+}
+.zii .xm .xxx .ss{
+	width: 429px;
+	height: 19px;
+	padding: 0 0 6px 20px;
+	border-bottom: 1px solid #E9E8EB;
+}
+.zii .xm .xxx .ss .tt{
+	width: 72px;
+	height: 19px;
+	float: left;
+}
+.zii .xm .xxx .ss .gengduo{
+	width: 29px;
+	height: 18px;
+	float: right;
+}
+.zii .xm .xxx .ss .gengduo a span{
+	color: #7A7A7A;
+	font-size: 14px;
+}
+.zii .xm .xxx .ss .jiantou{
+	width: 17px;
+	height: 9px;
+	padding: 6px 0 0 20px;
+	float: right;
+}
+.zii .xm .xxx .sss{
+	width: 449px;
+	height: 108px;
+	padding-top: 20px;
+}
+.zii .xm .xxx .sss .ssss{
+	width: 141px;
+	height: 108px;
+	float: left;
+}
+.zii .xm .xxx .sss .sssss{
+	width: 141px;
+	height: 108px;
+	padding-left: 13px;
+	float: left;
+}
+.bottom{
+    width:100%;
+    height:77px;
+    background: #e4e4e4;
+}
+.bottom .bottomsss{
+    width: 813px;
+    height: 42px;
+    margin-left: 450px;
+    float: left;
+}
+.bottom .bottomsss .z1{
+    width: 72px;
+    height: 16px;
+    padding: 26px 0 0 90px;
+    line-height: 16px;
+    float: left;
+}
+.bottom .bottomsss .z1 span{
+    font-size: 12px;
+    color: #8E8E8E;
+}
+.bottom .bottomsss .z2{
+    width: 62px;
+    height: 18px;
+    padding: 25px 10px 0 0;
+    float: left;
+    line-height: 18px;
+    text-align: left;
+}
+.bottom .bottomsss .z2 span{
+    font-size: 12px;
+    color: #8E8E8E;
+}
+.bottom .bottomsss .z3{
+    width: 579px;
+    height: 18px;
+    padding-top: 28px;
+    float: left;
+}
+.bottom .tu1{
+    width: 28px;
+    height: 25px;
+    padding: 20px 0 0 25px;
+    float: left;
+}
+.bottom .tu1 img:hover{
+    width: 60px;
+    height: 67px;
+    transform: translate(-20px,-20px);
+}
+.bottom .tu2{
+    width: 28px;
+    height: 25px;
+    padding-top: 20px;
+    float: left;
+}
+.bottom .tu2 img:hover{
+    width: 80px;
+    height: 81px;
+    transform: translate(-20px,-30px);
+}
+.bottom .tu3{
+    width: 80px;
+    height: 25px;
+    padding-top: 20px;
+    float: left;
+}
+.bottom .tu3 img:hover{
+    width: 127px;
+    height: 47px;
+    transform: translate(-20px,-10px);
+}
+.bottom .tu3 a img{
+    width: 64px;
+    height: 23px;
+}

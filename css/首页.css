@@ -1,0 +1,418 @@
+*{
+    padding:0;
+    margin: 0;
+}
+body,html{
+    background-color: #fff;
+    margin: 0;
+}
+img{
+    display: block;
+}
+a{
+    text-decoration: none;
+}
+.top{
+    width:100%;
+    height:42px;
+    padding: 41px 0 19px;
+    background:#fff;
+}
+.top .center{
+    width:1003px;
+    height:42px;
+    margin: 0 auto;
+}
+.top .center .centerleft{
+    width:333px;
+    height:49px;
+    padding-right: 194px;
+    float: left;
+}
+.top .center .centerleft .tupianleft a img{
+    float:left;
+}
+.top .center .centerleft .tupianright img{
+    float: left;
+}
+.top .center .menu01{
+    width:56px;
+    height:19px;
+    padding-top: 14px;
+    float: left;
+    line-height: 19px;
+}
+.top .center .menu02{
+    width:56px;
+    height:19px;
+    padding-top: 14px;
+    float: left;
+    line-height: 19px;
+}
+.top .center .menu02 span{
+    font-size: 14px;
+    color: #D54D63;
+}
+.top .center .menu02 i{
+    color: #757575;
+}
+.top .center .menu01 .icon-iconfontshouye:first-child{
+    color: #757575;
+}
+.top .center .menu01fgx{
+    width:10px;
+    height:19px;
+    padding:14px 14px 0 14px;
+    float: left;
+}
+.top .center .menu01 span{
+    font-size: 14px;
+    color: #757575;
+}
+.top .center .menu01 span:hover{
+    color: #CF3E4D;
+}
+.banner{
+    width:100%;
+    height:506px;
+    background:#e4e4e4;
+    overflow: hidden;
+}
+.banner .bannertu{
+    width:1263px;
+    height:506px;
+    padding-top: 1px;
+    margin: 0 auto;
+    background-image: url(../img/banner3.jpg);
+    background-position: 1px;
+    background-image: url(../img/banner2.jpg);
+    background-image: url(../img/banner1.jpg);
+}
+.kongbai{
+    width:100%;
+    background-color: transparent;
+    margin-top: -140px;
+
+}
+.kongbai .center{
+    width:1003px;
+    height:289px;
+    background: #FAFAFA;
+    margin: 0 auto;
+}
+.kongbai .center .stopleft{
+    width:300px;
+    height:37px;
+    padding-right: 64px;
+    float: left;
+    background: #000;
+}
+.kongbai .center .stopleft .left{
+    width:278px;
+    height:4px;
+    padding: 33px 0 0 22px;
+        z-index: 100;
+        background: #000;
+}
+.kongbai .center .stopleft .left .left1{
+    width:80px;
+    height:4px;
+    background: #000;
+    float: left;
+}
+.kongbai .center .stopleft .left .left1:hover{
+    background-color: #E42E2E;
+}
+.kongbai .center .stopleft .left .left2{
+    width:80px;
+    height:4px;
+    margin-left: 19px;
+    background: #cbcbcb;
+    float: left;
+}
+.kongbai .center .stopleft .left .left2:hover{
+    background-color: #E42E2E;
+}
+.kongbai .center .stopleft .left .left3{
+    width:80px;
+    height:4px;
+    margin-left: 19px;
+    background: #cbcbcb;
+    float: left;
+}
+.kongbai .center .stopleft .left .left3:hover{
+    background-color: #E42E2E;
+}
+.kongbai .center .stopright{
+    width:633px;
+    height:21px;
+    padding: 30px 0 0 4px;
+    background: #FAFAFA;
+    float: left;
+}
+.kongbai .center .stopright .kong{
+    width:200px;
+    height:21px;
+    float: left;
+}
+.kongbai .center .stopright .zhongjian{
+    width:183px;
+    height:15px;
+    padding: 3px 0 0 16px;
+    float: left;
+}
+.kongbai .center .stopright .youbian{
+    width:202px;
+    height:18px;
+    float: left;
+    border: 1px solid #cbcbcb;
+    position: relative;
+}
+.kongbai .center .stopright .youbian .JJ{
+    display: block;
+    width:173px;
+    height:16px;
+    padding: 1px;
+    position: absolute;
+    left:5px;
+    border:0;
+}
+.kongbai .center .stopright .youbian .DD{
+    width:38px;
+    height:18px;
+    padding:1px;
+    position: absolute;
+    left:164px;
+    border:0;
+    cursor: pointer;
+}
+.kongbai .center .xiamian{
+    width:1003px;
+    height:208px;
+    background: white;
+    margin-top: 81px;
+    position: relative;
+}
+.kongbai .center .xiamian .left1{
+    width:242px;
+    height:160px;
+    border-left: 1px solid #E4E4E4;
+    float: left;
+}
+.kongbai .center .xiamian .left1 .tops{
+    width:234px;
+    height:66px;
+    padding-top: 7px;
+    margin-left: 8px;
+}
+.kongbai .center .xiamian .left1 .tops a img{
+    margin-left: 13px;
+}
+.kongbai .center .xiamian .left1 .kb{
+    width:212px;
+    padding:10px 10px 0 20px;
+}
+.kongbai .center .xiamian .left1 .bottoms{
+    width:211px;
+    height:75px;
+    padding-left: 20px;
+}
+.kongbai .center .xiamian .left1 .bottoms .ziti{
+    width:128px;
+    height:54px;
+    padding-top: 8px;
+    float: left;
+}
+.kongbai .center .xiamian .left1 .bottoms .ziti .zi{
+    width:128px;
+    height:54px;
+    font-size: 12px;
+    color: #868686;
+}
+.kongbai .center .xiamian .left1 .bottoms a img{
+    padding-right: 8px;
+    float: left;
+}
+.kongbai .center .xiamian .center1{
+    width:462px;
+    height:160px;
+    margin-left: 8px;
+    float: left;
+}
+.kongbai .center .xiamian .center11{
+    width:426px;
+    height:149px;
+    padding:9px 18px 0 18px;
+    border-left: 1px solid #E4E4E4;
+}
+.kongbai .center .xiamian .center11 .topss{
+    width:426px;
+    height:32px;
+    border-bottom: 1px solid #e4e4e4;
+}
+.kongbai .center .xiamian .center11 .topss .ti{
+    width:75px;
+    height:32px;
+    padding-left: 26px;
+    float: left;
+    line-height: 32px;
+    text-align: center;
+}
+.kongbai .center .xiamian .center11 .topss .ti span:hover{
+    background: #e4e4e4;
+}
+.kongbai .center .xiamian .center11 .topss .ti span{
+    font-size: 14px;
+    color: #424242;
+}
+.kongbai .center .xiamian .center11 .bottomss{
+    width: 400px;
+    height: 104px;
+    padding-left: 26px;
+    margin-top: 12px;
+}
+.kongbai .center .xiamian .center11 .bottomss .zitii{
+    width: 400px;
+    height: 26px;
+}
+.kongbai .center .xiamian .center11 .bottomss .zitii a{
+    font-size: 12px;
+    color: #7A7A7A;
+}
+.kongbai .center .xiamian .center11 .bottomss .zitii a:hover{
+    color: #010101;
+}
+.kongbai .center .xiamian .right1{
+    width:287px;
+    height:160px;
+    margin-left: 1px;
+    float: left;
+    border-left: 1px solid #e4e4e4;
+    border-right: 1px solid #e4e4e4;
+}
+.kongbai .center .xiamian .bottom1{
+    width: 1003px;
+    height: 24px;
+    padding-top: 171px;
+    left: 0;
+}
+.kongbai .center .xiamian .bottom1 .zuo{
+    width: 84px;
+    height: 18px;
+    line-height: 16px; 
+    float: left;
+    border-top: 1px dashed #000; 
+}
+.kongbai .center .xiamian .bottom1 .zuo span{
+    font-size: 12px;
+    color: #7A7A7A;
+}
+.kongbai .center .xiamian .bottom1 .you{
+    width: 816px;
+    height: 18px;
+    float: left; 
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px dashed #000;
+}
+.kongbai .center .xiamian .bottom1 .you .zizi{
+    width: auto;
+    height: 12px;
+    display: flex;
+    line-height: 18px;
+}
+.kongbai .center .xiamian .bottom1 .you .zizi a{
+    font-size: 12px;
+    color: #7A7A7A;
+}
+.kongbai .center .xiamian .bottom1 .you .zizi a:hover{
+    color: #323232;
+}
+.kongbai .center .xiamian .bottom1 .zuiyou{
+    width: 54px;
+    height: 18px;
+    margin-left: 945px;
+    line-height: 16px;
+    text-align: right;
+}
+.kongbai .center .xiamian .bottom1 .zuiyou a{
+    font-size: 12px;
+    color: #E45353;
+}
+.bottom{
+    width:100%;
+    height:77px;
+    background: #e4e4e4;
+}
+.bottom .bottomsss{
+    width: 813px;
+    height: 42px;
+    margin-left: 450px;
+    float: left;
+}
+.bottom .bottomsss .z1{
+    width: 72px;
+    height: 16px;
+    padding: 26px 0 0 90px;
+    line-height: 16px;
+    float: left;
+}
+.bottom .bottomsss .z1 span{
+    font-size: 12px;
+    color: #8E8E8E;
+}
+.bottom .bottomsss .z2{
+    width: 62px;
+    height: 18px;
+    padding: 25px 10px 0 0;
+    float: left;
+    line-height: 18px;
+    text-align: left;
+}
+.bottom .bottomsss .z2 span{
+    font-size: 12px;
+    color: #8E8E8E;
+}
+.bottom .bottomsss .z3{
+    width: 579px;
+    height: 18px;
+    padding-top: 28px;
+    float: left;
+}
+.bottom .tu1{
+    width: 28px;
+    height: 25px;
+    padding: 20px 0 0 25px;
+    float: left;
+}
+.bottom .tu1 img:hover{
+    width: 60px;
+    height: 67px;
+    transform: translate(-20px,-20px);
+}
+.bottom .tu2{
+    width: 28px;
+    height: 25px;
+    padding-top: 20px;
+    float: left;
+}
+.bottom .tu2 img:hover{
+    width: 80px;
+    height: 81px;
+    transform: translate(-20px,-30px);
+}
+.bottom .tu3{
+    width: 80px;
+    height: 25px;
+    padding-top: 20px;
+    float: left;
+}
+.bottom .tu3 img:hover{
+    width: 127px;
+    height: 47px;
+    transform: translate(-20px,-10px);
+}
+.bottom .tu3 a img{
+    width: 64px;
+    height: 23px;
+}

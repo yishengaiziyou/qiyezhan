@@ -1,0 +1,460 @@
+*{
+    padding:0;
+    margin: 0;
+}
+body,html{
+    margin: 0;
+    background: #fafafa;
+}
+img{
+    display: block;
+}
+a{
+    text-decoration: none;
+}
+em{
+	font-style: normal;
+}
+i{
+	font-style: normal;
+}
+.kk{
+    width: 1274px;
+    height: 1037px;
+    background: #fff;
+    margin: 0 auto;
+    position: relative;
+}
+.top{
+    width:100%;
+    height:42px;
+    padding: 41px 0 19px;
+    background:#fff;
+}
+.top .center{
+    width:1003px;
+    height:42px;
+    margin: 0 auto;
+}
+.top .center .centerleft{
+    width:333px;
+    height:49px;
+    padding-right: 194px;
+    float: left;
+}
+.top .center .centerleft .tupianleft a img{
+    float:left;
+}
+.top .center .centerleft .tupianright img{
+    float: left;
+}
+.top .center .menu01{
+    width:56px;
+    height:19px;
+    padding-top: 14px;
+    float: left;
+    line-height: 19px;
+}
+.top .center .menu02{
+    width:56px;
+    height:19px;
+    padding-top: 14px;
+    float: left;
+    line-height: 19px;
+}
+.top .center .menu02 span{
+    font-size: 14px;
+    color: #757575;
+}
+.top .center .menu02 i{
+    color: #757575;
+}
+.top .center .menu03{
+    width:56px;
+    height:19px;
+    padding-top: 14px;
+    float: left;
+    line-height: 19px;
+}
+.top .center .menu03 span{
+    font-size: 14px;
+    color: #CF3E4D;
+}
+.top .center .menu02 span:hover{
+    color: #CF3E4D;
+}
+.top .center .menu01fgx{
+    width:10px;
+    height:19px;
+    padding:14px 14px 0 14px;
+    float: left;
+}
+.top .center .menu01 span{
+    font-size: 14px;
+    color: #757575;
+}
+.top .center .menu01 span:hover{
+    color: #CF3E4D;
+}
+.banner{
+	width: 1274px;
+	height: 229px;
+	background: tan;
+	margin: 0 auto;
+}
+.kk .zkk{
+	width: 1014px;
+	height: 808px;
+
+	position: absolute;
+	top: 196px;
+	left: 130px;
+}
+.kk .zkk .top11{
+	width: 1014px;
+	height: 21px;
+}
+.kk .zkk .top111{
+	width: 927px;
+	height: 28px;
+	border: 1px solid #e4e4e4;
+	margin: 0 auto;
+	background: #F2F2F2;
+}
+.kk .zkk .top111 .left1{
+	width: 61px;
+	height: 28px;
+	padding-left: 16px;
+	float: left;
+	line-height: 28px;
+}
+.kk .zkk .top111 .left1 span{
+	font-size: 12px;
+	color: #7A7A7A;
+	font-weight: bold;
+}
+.kk .zkk .top111 .left11{
+	width: 518px;
+	height: 28px;
+	padding-left: 9px;
+	float: left;
+	line-height: 28px;
+}
+.kk .zkk .top111 .left11 span{
+	font-size: 12px;
+	color: #7A7A7A;
+}
+.kk .zkk .top111 .left11 span:hover{
+	color: #000;
+}
+.kk .zkk .top111 .left111{
+	width: 16px;
+	height: 28px;
+	padding-left: 14px;
+	float: left;
+}
+.kk .zkk .top111 .left1111{
+	width: 32px;
+	height: 13px;
+	padding: 0 9px 0 26px;
+	margin-top: 6px;
+	float: left;
+}
+.kk .zkk .top111 .left11111{
+	width: 202px;
+	height: 18px;
+	float: left;
+	border: 1px solid #D6D6D6;
+	position: relative;
+	margin-top: 4px;
+}
+.kk .zkk .top111 .left11111 .text{
+	width: 180px;
+	height: 18px;
+	top: -1px;
+	left: -1px;
+	position: absolute;
+	border: 1px solid #d6d6d6;
+}
+.kk .zkk .top111 .left11111 .button{
+	width: 20px;
+	height: 16px;
+	padding: 1px;
+	position: absolute;
+	top: 1px;
+	left: 182px;
+	border: 0;
+	cursor: pointer;
+}
+.kk .zkk .top1111{
+	width: 926px;
+	height: 306px;
+	margin: 21px auto 21px;				
+}
+.kk .zkk .top1111 .tukk{
+	width: 449px;
+	height: 306px;
+	background: pink;
+	float: left;
+}
+.kk .zkk .top1111 .tukk .zitiz{
+	width: 447px;
+	height: 28px;
+	border: 1px solid #e4e4e4;
+	border-top: 0;
+	background: #F2F2F2;
+	text-align: center;
+	line-height: 28px;
+}
+.kk .zkk .top1111 .tukk .zitiz a span{
+	font-size: 12px;
+	color: #7a7a7a;
+	font-weight: bold;
+}
+.kk .zkk .top1111 .tukk .zitiz a span:hover{
+	color: #000;
+}
+.kk .zkk .top1111 .tukkright{
+	width: 447px;
+	height: 304px;
+	margin-left: 28px;
+	background: white;
+	float: left;
+	border: 1px solid #E9E8EB;
+}
+.kk .zkk .top1111 .tukkright .topz{
+	width: 447px;
+	height: 28px;
+	border-bottom: 1px solid #E9E8EB;
+}
+.kk .zkk .top1111 .tukkright .topz .sb{
+	width: 120px;
+	height: 28px;
+	padding-right: 224px;
+	border-right: 1px solid #E9E8EB;
+	float: left;
+}
+.kk .zkk .top1111 .tukkright .topz .xiajiantouzz{
+	width: 17px;
+	height: 9px;
+	padding: 10px 21px 0 19px;
+	float: left;
+}
+.kk .zkk .top1111 .tukkright .topz .xiajiantouzz img{
+	width: 17px;
+	height: 9px;
+	float: left;
+}
+.kk .zkk .top1111 .tukkright .topz .gengduo{
+	width: 28px;
+	height: 31px;
+	float: left;
+	line-height: 27px;
+}
+.kk .zkk .top1111 .tukkright .topz .gengduo a span{
+	font-size: 14px;
+	color: #7A7A7A;
+}
+.kk .zkk .top1111 .tukkright .bottomz{
+	width: 414px;
+	height: 224px;
+	padding: 22px 0;
+	margin: 0 auto;
+}
+.kk .zkk .top1111 .tukkright .bottomz .zzz{
+	width: 414px;
+	height: 28px;
+}
+.kk .zkk .top1111 .tukkright .bottomz .zzz span{
+	font-size: 14px;
+	color: #7A7A7A;
+}
+.kk .zkk .top1111 .tukkright .bottomz .zzz span:hover{
+	color: #000;
+}
+.kk .zkk .zkkk{
+	width: 929px;
+	height: 399px;
+	padding-top: 10px;
+	margin: 0 auto;
+}
+.kk .zkk .zkkk .topzzz{
+	width: 929px;
+	height: 28px;
+}
+.kk .zkk .zkkk .topzzz .leftb{
+	width: 86px;
+	height: 28px;
+	padding-left: 11px;
+	float: left;
+}
+.kk .zkk .zkkk .topzzz .leftbb{
+	width: 71px;
+	height: 23px;
+	padding: 4px 0 0 19px;
+	float: left;
+}
+.kk .zkk .zkkk .topzzz .leftbbb{
+	width: 71px;
+	height: 23px;
+	padding: 4px 0 0 18px;
+	float: left;
+}
+.kk .zkk .zkkk .topzzz .leftbbbb{
+	width: 71px;
+	height: 23px;
+	padding: 4px 0 0 18px;
+	float: left;
+}
+.kk .zkk .zkkk .topzzz .leftbbbbb{
+	width: 17px;
+	height: 9px;
+	padding: 11px 21px 0 495px;
+	float: left;
+}
+.kk .zkk .zkkk .topzzz .leftbbbbbb{
+	width: 28px;
+	height: 18px;
+	padding-top: 5px;
+	float: left;
+}
+.kk .zkk .zkkk .topzzz .leftbbbbbb a span{
+	color: #7A7A7A;
+	font-size: 14px;
+}
+.kk .zkk .zkkk .topzzz .leftbbbbbb a span:hover{
+	color: #000;
+}
+.kk .zkk .zkkk .zizizi{
+	width: 906px;
+	height: 120px;
+	padding: 20px 0 19px 0;
+	margin: 0 auto;
+}
+.kk .zkk .zkkk .zizizi a span{
+	color: #7a7a7a;
+	font-size: 12px;
+	margin-right: 61px;
+	display: block;
+	float: left;
+	margin-top: 6px;
+}
+.kk .zkk .zkkk .zizizi a span:hover{
+	color: #000;
+}
+.kk .zkk .zkkk .zizizi a i{
+	color: #7a7a7a;
+	font-size: 12px;
+	margin-right: 60px;
+	display: block;
+	float: left;
+	margin-top: 6px;
+}
+.kk .zkk .zkkk .zizizi a i:hover{
+	color: #000;
+}
+.kk .zkk .zkkk .zizizi a em{
+	color: #7a7a7a;
+	font-size: 12px;
+	margin-right: 45px;
+	display: block;
+	float: left;
+	margin-top: 6px;
+}
+.kk .zkk .zkkk .zizizi a em:hover{
+	color: #000;
+}
+.kk .zkk .zkkk .zizizi a p{
+	width: auto;
+	height: 12px;
+	color: #7a7a7a;
+	font-size: 12px;
+	display: inline;
+	display: block;
+	float: left;
+	margin-top: 6px;
+}
+.kk .zkk .zkkk .zizizi a p:hover{
+	color: #000;
+}
+.kk .zkk .zkkk .kbbb{
+	width: 929px;
+	height: 22px;
+}
+.bottom{
+    width:100%;
+    height:77px;
+    background: #e4e4e4;
+}
+.bottom .bottomsss{
+    width: 813px;
+    height: 42px;
+    margin-left: 450px;
+    float: left;
+}
+.bottom .bottomsss .z1{
+    width: 72px;
+    height: 16px;
+    padding: 26px 0 0 90px;
+    line-height: 16px;
+    float: left;
+}
+.bottom .bottomsss .z1 span{
+    font-size: 12px;
+    color: #8E8E8E;
+}
+.bottom .bottomsss .z2{
+    width: 62px;
+    height: 18px;
+    padding: 25px 10px 0 0;
+    float: left;
+    line-height: 18px;
+    text-align: left;
+}
+.bottom .bottomsss .z2 span{
+    font-size: 12px;
+    color: #8E8E8E;
+}
+.bottom .bottomsss .z3{
+    width: 579px;
+    height: 18px;
+    padding-top: 28px;
+    float: left;
+}
+.bottom .tu1{
+    width: 28px;
+    height: 25px;
+    padding: 20px 0 0 25px;
+    float: left;
+}
+.bottom .tu1 img:hover{
+    width: 60px;
+    height: 67px;
+    transform: translate(-20px,-20px);
+}
+.bottom .tu2{
+    width: 28px;
+    height: 25px;
+    padding-top: 20px;
+    float: left;
+}
+.bottom .tu2 img:hover{
+    width: 80px;
+    height: 81px;
+    transform: translate(-20px,-30px);
+}
+.bottom .tu3{
+    width: 80px;
+    height: 25px;
+    padding-top: 20px;
+    float: left;
+}
+.bottom .tu3 img:hover{
+    width: 127px;
+    height: 47px;
+    transform: translate(-20px,-10px);
+}
+.bottom .tu3 a img{
+    width: 64px;
+    height: 23px;
+}
