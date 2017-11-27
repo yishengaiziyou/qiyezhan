@@ -1,0 +1,337 @@
+*{
+    padding:0;
+    margin: 0;
+    list-style: none;
+    font-style: normal;
+}
+body,html{
+    margin: 0;
+    background: #FCFCFC;
+}
+img{
+    display: block;
+}
+a{
+    text-decoration: none;
+}
+.top{
+    width:100%;
+    height:42px;
+    padding: 41px 0 19px;
+    background:#fff;
+}
+.top .center{
+    width:1003px;
+    height:42px;
+    margin: 0 auto;
+}
+.top .center .centerleft{
+    width:333px;
+    height:49px;
+    padding-right: 194px;
+    float: left;
+}
+.top .center .centerleft .tupianleft a img{
+    float:left;
+}
+.top .center .centerleft .tupianright img{
+    float: left;
+}
+.top .center .menu01{
+    width:56px;
+    height:19px;
+    padding-top: 14px;
+    float: left;
+    line-height: 19px;
+}
+.top .center .menu02{
+    width:56px;
+    height:19px;
+    padding-top: 14px;
+    float: left;
+    line-height: 19px;
+}
+.top .center .menu02 span{
+    font-size: 14px;
+    color: #757575;
+}
+.top .center .menu02 i{
+    color: #757575;
+}
+.top .center .menu03{
+    width:56px;
+    height:19px;
+    padding-top: 14px;
+    float: left;
+    line-height: 19px;
+}
+.top .center .menu03 span{
+    font-size: 14px;
+    color: #CF3E4D;
+}
+.top .center .menu02 span:hover{
+    color: #CF3E4D;
+}
+.top .center .menu01fgx{
+    width:10px;
+    height:19px;
+    padding:14px 14px 0 14px;
+    float: left;
+}
+.top .center .menu01 span{
+    font-size: 14px;
+    color: #757575;
+}
+.top .center .menu01 span:hover{
+    color: #CF3E4D;
+}
+.dk{
+	width: 1274px;
+	height: 1176px;
+	margin: 0 auto;
+	position: relative;
+	top: 0;
+	left: 0;
+}
+.banner{
+    width: 1274px;
+    height: 229px;
+    background: tan;
+    margin: 0 auto;
+    background-image: url('../img/jtwh.jpg');
+}
+.dk .zj{
+	width: 1014px;
+	height: 947px;
+	position: absolute;
+	top: 196px;
+	left: 0;
+	margin-left: 130px;
+}
+.dk .zj .zjj{
+	width: 936px;
+	height: 915px;
+	padding-top: 32px;
+	margin: 0 auto;
+	background: #fff;
+}
+.dk .zj .zjj .zjjj{
+	width: 249px;
+	height: 238px;
+	float: left;
+}
+.dk .zj .zjj .zjjj .zjjjj{
+	width: 195px;
+	height: 230px;
+	margin-top: 8px;
+}
+.dk .zj .zjj .zjjj .zjjjj .zjjjjj{
+	margin-top: 8px;
+    border: 1px #e4e4e4 solid;
+    height: 31px;
+    line-height: 31px;
+    font-size: 14px;
+    color: #7e7e7e;
+    font-weight: bold; 
+}
+.dk .zj .zjj .zjjj .zjjjj .zjjjjjjj{
+	border: 1px #e4e4e4 solid;
+    height: 31px;
+    line-height: 31px;
+    font-size: 14px;
+    color: #7e7e7e;
+    font-weight: bold;
+}
+.dk .zj .zjj .zjjj .zjjjj .zjjjjjj{
+	margin-top: 8px;
+    border: 1px #e4e4e4 solid;
+    background-color: #bf0000;
+    height: 31px;
+    line-height: 31px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.dk .zj .zjj .zjjj .zjjjj .zjjjjj span:hover{
+	color: #000;
+}
+.dk .zj .zjj .zjjj .zjjjj .zjjjjjjj span:hover{
+	color: #000;
+}
+.right .toop a span{
+	color: #000;
+}
+.right .xiamian{
+	width: 652px;
+	height: 874px;
+}
+.right .xiamian .sm{
+	width: 652px;
+	height: 840px;
+}
+.right .xiamian .sm li{
+	width: 652px;
+	height: 28px;
+	line-height: 28px;
+}
+.right .xiamian .sm li a span{
+	font-size: 14px;
+	color: #868686;
+	float: left;
+}
+.right .xiamian .sm li a span:hover{
+	color: #000;
+}
+.right .xiamian .sm li a i{
+	font-size: 14px;
+	color: #868686;
+	float: right;
+}
+.right .xiamian .sm li a i:hover{
+	color: #000;
+}
+.right .xiamian .xm{
+	width: 652px;
+	height: 16px;
+	padding-top: 16px;
+	line-height: 16px;
+}
+.right .xiamian .xm .left{
+	width: auto;
+	height: 16px;
+	margin-left: 171px;
+	float: left;
+}
+.right .xiamian .xm .center a span{
+	margin-left: 29px;
+	float: left;
+	font-size: 14px;
+	margin-top: 2px;
+}
+.right .xiamian .xm .center a span p:hover{
+	color: #000;
+}
+.right .xiamian .xm .centerr a span{
+	margin-left: 29px;
+	float: left;
+	font-size: 14px;
+	margin-top: 2px;	
+}
+.right .xiamian .xm .centerr a span p:hover{
+	color: #000;
+}
+.right .xiamian .xm .centerrr{
+	width: 19px;
+	height: 16px;
+	background: red;
+	float: left;
+	margin-left: 29px;
+	margin-top: 1px;
+	text-align: center;
+}
+.right .xiamian .xm .zhong a span{
+	margin-left: 14px;
+	margin-top: 2px;
+	float: left;
+}
+.right .xiamian .xm .zhong a span p:hover{
+	color: #000;
+}
+.right .xiamian .xm .right a span p{
+	color: #868686;
+	font-size: 14px;
+	float: left;
+	margin-left: 28px;
+	margin-top: 2px;
+}
+.right .xiamian .xm .right a span p:hover{
+	color: #000;
+}
+.right .xiamian .xm .rightt a span{
+	margin-left: 25px;
+	float: left;
+}
+.right .xiamian .xm .rightt a span p{
+	margin-top: 2px;
+	font-size: 14px;
+	color: #868686;
+}
+.right .xiamian .xm .rightt a span p:hover{
+	color: #000;
+}
+.bottom{
+    width:100%;
+    height:77px;
+    background: #e4e4e4;
+}
+.bottom .bottomsss{
+    width: 813px;
+    height: 42px;
+    margin-left: 450px;
+    float: left;
+}
+.bottom .bottomsss .z1{
+    width: 72px;
+    height: 16px;
+    padding: 26px 0 0 90px;
+    line-height: 16px;
+    float: left;
+}
+.bottom .bottomsss .z1 span{
+    font-size: 12px;
+    color: #8E8E8E;
+}
+.bottom .bottomsss .z2{
+    width: 62px;
+    height: 18px;
+    padding: 25px 10px 0 0;
+    float: left;
+    line-height: 18px;
+    text-align: left;
+}
+.bottom .bottomsss .z2 span{
+    font-size: 12px;
+    color: #8E8E8E;
+}
+.bottom .bottomsss .z3{
+    width: 579px;
+    height: 18px;
+    padding-top: 28px;
+    float: left;
+}
+.bottom .tu1{
+    width: 28px;
+    height: 25px;
+    padding: 20px 0 0 25px;
+    float: left;
+}
+.bottom .tu1 img:hover{
+    width: 60px;
+    height: 67px;
+    transform: translate(-20px,-20px);
+}
+.bottom .tu2{
+    width: 28px;
+    height: 25px;
+    padding-top: 20px;
+    float: left;
+}
+.bottom .tu2 img:hover{
+    width: 80px;
+    height: 81px;
+    transform: translate(-20px,-30px);
+}
+.bottom .tu3{
+    width: 80px;
+    height: 25px;
+    padding-top: 20px;
+    float: left;
+}
+.bottom .tu3 img:hover{
+    width: 127px;
+    height: 47px;
+    transform: translate(-20px,-10px);
+}
+.bottom .tu3 a img{
+    width: 64px;
+    height: 23px;
+}
